@@ -1,0 +1,4 @@
+spring:
+
+  MyComponentConstructorLog: "MyComponent constructor has been called"
+  getControllerNameMessage: "myService.getName() has been called"
